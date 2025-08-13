@@ -1,3 +1,4 @@
+
 # Cozy Cup Cafe
 
 ## Project Description
@@ -11,7 +12,11 @@ Here are some visuals from the Cozy Cup Cafe project:
 <img src="images/home.png" alt="Home Page" width="400">
 
 ### Menu Page
-<img src="images/menu.png" alt="Menu Page" width="400">
+<img src="https://i.pinimg.com/736x/86/aa/58/86aa58f84b31ad2f0b3ab0f8293d40ec.jpg" width="40">
+Caramel Machiato
+<img src="https://i.pinimg.com/1200x/6c/d7/9a/6cd79abd33db024e7cd4cd63b47907dc.jpg" alt="Matcha Latte" width="40">
+<img src="tsoko.png" alt="Chocolate" width="400">
+<img src="bflorest.png" alt="Black Forest" width="400">
 
 ### Gallery
 <img src="images/gallery.png" alt="Gallery" width="400">
