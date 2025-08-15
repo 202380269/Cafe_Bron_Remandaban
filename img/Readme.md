@@ -2,8 +2,18 @@
 # Cozy Cup Cafe
 
 ## Project Description
-Cozy Cup Cafe is a warm and inviting coffee shop web project designed to showcase menu items, highlight special offers, and provide customers with an easy way to connect. It’s a perfect blend of design and functionality for coffee lovers.
+CozyCup Café is where every sip feels like home. Step inside and be greeted by the gentle hum of conversations, the rich scent of roasted coffee, and the warmth of a space designed for comfort. With a blend of modern elegance and cozy charm, it’s the perfect spot to enjoy handcrafted coffee, flavorful pastries, and moments that matter. Whether you’re here to focus, unwind, or simply savor the day, CozyCup Café brews more than coffee—it brews memories.
 
+## Features 
+<ul>
+    <p>Menu:</p>
+    <li> Signature drinks: Caramel Machiato, Matcha Latte, Dark Chocolate and Black Forest. </li><br>
+    <P>About Us</p>
+    <li>Cozy, welcoming space that feels like home. </li><br>
+    <li>A community hub where every cup is brewed with care </li><br>
+    <p>Menu:</p>
+    <li>Event booking options for private gatherings or celebrations </li><br>
+</ul>
 
 ## Screen Captures
 Here are some visuals from the Cozy Cup Cafe project:
